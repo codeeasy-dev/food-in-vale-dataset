@@ -1,0 +1,40 @@
+[{
+    "id": 1,
+    "title": "Restaurante do Boteco",
+    "distance": 2700,
+    "delivery_time": "10 - 15 min",
+    "delivery_price": "R$5,00",
+    "minimum_price": 12,
+    "category": "Lanches",
+    "image_url": "https://freelogo-assets.s3.amazonaws.com/sites/all/themes/freelogoservices/images/smalllogorestaurant1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Tempesto",
+    "distance": 9800,
+    "delivery_time": "40 - 50 min",
+    "delivery_price": "R$1,00",
+    "minimum_price": 12,
+    "category": "Lanches",
+    "image_url": "https://image.shutterstock.com/image-vector/restaurant-logo-template-260nw-1254530365.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Boca nervosa",
+    "distance": 1500,
+    "delivery_time": "80 - 120 min",
+    "delivery_price": "R$2,00",
+    "minimum_price": 12,
+    "category": "Lanches",
+    "image_url": "https://freelogo-assets.s3.amazonaws.com/sites/all/themes/freelogoservices/images/smalllogorestaurant1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Restaurante do Boteco",
+    "distance": 2000,
+    "delivery_time": "30 - 40 min",
+    "delivery_price": "R$3,00",
+    "category": "Lanches",
+    "image_url": "https://i.etsystatic.com/11979725/r/il/425b9a/1431687786/il_570xN.1431687786_w5a8.jpg"
+  }
+]
