@@ -34,6 +34,7 @@
     "distance": 2000,
     "delivery_time": "30 - 40 min",
     "delivery_price": "R$3,00",
+    "minimum_price": 12,
     "category": "Lanches",
     "image_url": "https://i.etsystatic.com/11979725/r/il/425b9a/1431687786/il_570xN.1431687786_w5a8.jpg"
   }
